@@ -32,7 +32,7 @@ const LoginPage = ({ saveUsername }) => {
         <UsernameInput username={username} setUsername={setUsername} />
         <SubmitButton handleSubmitButtonPressed={handleSubmitButtonPressed} />
       </div>
-      <footer> <small>&#9400; Copyright 2021, shubham khatal</small> </footer>
+      <footer> <small></small> </footer>
     </div>
   );
 };
