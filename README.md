@@ -45,7 +45,7 @@ For help getting started with React, view our
 [online documentation](https://reactjs.org/docs/getting-started.html), which offers tutorials, samples and guidance.
 
   
-##Current features in Project
+# Current Functionality
 
 Login
 
