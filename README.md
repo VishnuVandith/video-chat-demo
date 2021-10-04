@@ -48,24 +48,19 @@ For help getting started with React, view our
 
 Login
 
-<img src="screenshots/login.JPG" width="800">
+
 
 Dashboard
 
-<img src="screenshots/dashboard.JPG" width="800">
+
 
 Calling
 
-<img src="screenshots/calling.JPG" width="800">
-<img src="screenshots/calling2.JPG" width="800">
+
 
 Chat
 
-<img src="screenshots/chat_calling.JPG" width="800">
 
 Group Call
-
-<img src="screenshots/groupcall.JPG" width="800">
-
 
 
